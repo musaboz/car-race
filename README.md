@@ -1,6 +1,6 @@
 # This is the implementation of a car with C.
 
-## I implemented it in Germany, that's the reason that everything in the code is written German.
+## I implemented this code in Germany, that's the reason that everything in the code is written German.
 
 ###### There is a racing circuit, and in that circuit, there is a few challanges such as crossroads, bridges and curves.
 
